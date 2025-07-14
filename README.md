@@ -56,7 +56,7 @@ You need some source code to manage. So, you will create a simple Python Flask w
 3) Click on devops-repo
 4) On the File menu, click New File
 5) Paste the following code into the file you just created:
-https://github.com/logicopslab/DevOpsProjectWithGCP/blob/main/main.py
+https://github.com/sidhmahi11/DevOpsProjectWithGCP/blob/main/main.py
 6) To save your changes. Press CTRL + S, and name the file as main.py.
 7) Click on SAVE
 8) Click on the devops-repo folder.
@@ -64,12 +64,12 @@ https://github.com/logicopslab/DevOpsProjectWithGCP/blob/main/main.py
 10) Click OK
 11) Right-click on the templates folder and create a new file called layout.html.
 12) Add the following code and save the file as you did before:
-https://github.com/logicopslab/DevOpsProjectWithGCP/blob/main/layout.html
+https://github.com/sidhmahi11/DevOpsProjectWithGCP/blob/main/layout.html
 13) Also in the templates folder, add another new file called index.html. Add the following code and save the file as you did before:
-https://github.com/logicopslab/DevOpsProjectWithGCP/blob/main/index.html
+https://github.com/sidhmahi11/DevOpsProjectWithGCP/blob/main/index.html
 14) In Python, application prerequisites are managed using pip. Now you will add a file that lists the requirements for this application.
 15) In the devops-repo folder (not the templates folder), create a New File and add the following to that file and save it as requirements.txt:
-https://github.com/logicopslab/DevOpsProjectWithGCP/blob/main/requirements.txt
+https://github.com/sidhmahi11/DevOpsProjectWithGCP/blob/main/requirements.txt
 16) You have some files now, so save them to the repository. First, you need to add all the files you created to your local Git repo. In Cloud Shell, enter the following code:
 cd ~/gcp-course/devops-repo
 git add --all
@@ -88,7 +88,7 @@ The first step to using Docker is to create a file called Dockerfile. This file 
 
 1) In the Cloud Shell Code Editor, expand the gcp-course/devops-repo folder. With the devops-repo folder selected, on the File menu, click New File and name the new file Dockerfile.
 The file Dockerfile is used to define how the container is built.
-https://github.com/logicopslab/DevOpsProjectWithGCP/blob/main/Dockerfile
+https://github.com/sidhmahi11/DevOpsProjectWithGCP/blob/main/Dockerfile
 
 **Task 4. Manage Docker images with Cloud Build and Container Registry**
 
